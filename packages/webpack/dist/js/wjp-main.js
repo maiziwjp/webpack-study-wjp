@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("index1"),console.log("process.env.NODE_ENV","production"),document.body.onclick=function(){document.getElementById("box").style.height="300px"}})();
